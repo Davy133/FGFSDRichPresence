@@ -1,0 +1,2 @@
+# FGFSDRichPresence
+ FlightGear DiscordRPC
